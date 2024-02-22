@@ -1,0 +1,5 @@
+#First put classes , yolov4-tiny and yolov4-tiny.weights file in dnn_model file.
+
+#Second put edit the main.py as per your need.
+
+#Third run the main.py
